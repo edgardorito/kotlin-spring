@@ -8,4 +8,5 @@ class KotlinandspringApplication
 
 fun main(args: Array<String>) {
     runApplication<KotlinandspringApplication>(*args)
+
 }
